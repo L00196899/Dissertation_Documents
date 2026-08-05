@@ -1,2 +1,3 @@
-# Dissertation-Documents-Code
-This Repository contains all important dissertation documents like code and full information document about project/dissertation.
+# Dissertation Documents 
+# Code Run Steps using the Colab Application
+This Repository contains all important dissertation documents, such as code and a full information Word document about the project/dissertation.
